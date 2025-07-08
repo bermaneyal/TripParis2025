@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ברמן 2025</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="לו"ז טיול">
+    <link rel="apple-touch-icon" href="images/icon1.png">
+    <meta name="msapplication-TileImage" content="images/icon1.png">
+    <meta name="msapplication-TileColor" content="#2F3BA2">
+</head>
+<body>
+    <header>
+        <h1>לו"ז טיול משפחת ברמן 2025</h1>
+        <div id="current-time"></div>
+        <div id="countdown-to-event"></div>
+    </header>
+
+    <main>
+        <button id="install-app-button" class="install-button" style="display:none;">
+            התקן את האפליקציה
+        </button>
+        <section id="now-next">
+            <h2>מה קורה עכשיו / בקרוב</h2>
+            <div id="current-event" class="now-event-card">
+                <p>טוען נתונים...</p>
+            </div>
+            <div id="next-event" class="next-event-card">
+                <p>טוען נתונים...</p>
+            </div>
+        </section>
+
+        <section id="full-schedule">
+            <h2>לוח זמנים מלא</h2>
+            <div id="schedule-container">
+                <p>טוען לו"ז...</p>
+            </div>
+            <div id="last-updated" style="text-align: center; font-size: 0.85em; color: #888;"></div>
+        </section>
+        <button id="reload-button" class="reload-button">רענן</button>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 ברמן כל הזכויות שמורות.</p>
+        <div id="app-version-display" style="font-size: 0.8em; color: #666; margin-top: 5px;"></div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

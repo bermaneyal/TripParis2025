@@ -1,0 +1,175 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    direction: rtl; /* Right-to-left for Hebrew */
+    text-align: right; /* Align text to the right for Hebrew */
+}
+
+header {
+    background-color: #FF9800; /* Primary Orange */
+    color: white;
+    padding: 1em;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.4em;
+}
+
+#current-time {
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
+main {
+    padding: 1em;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+section {
+    background-color: white;
+    padding: 1.5em;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #FF9800; /* Primary Orange */
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+.event-card {
+    background-color: #FFF3E0; /* Very Light Orange */
+    border-radius: 5px;
+    padding: 1em;
+    margin-bottom: 10px;
+    border-right: 5px solid #FF9800; /* Primary Orange Border */
+    display: flex;
+    flex-direction: column;
+}
+
+#countdown-to-event {
+    font-size: 1em;
+    font-weight: bold;
+    color: #E65100; /* Darker Orange for contrast */
+    margin-top: 5px;
+    padding: 5px 0;
+}
+
+.event-card.current {
+    background-color: #FFE0B2; /* Slightly darker light orange for current */
+    border-right-color: #FB8C00; /* Darker Orange for current border */
+}
+
+.event-time {
+    font-weight: bold;
+    color: #333;
+    font-size: 1.1em;
+}
+
+.event-title {
+    font-size: 1.2em;
+    margin: 5px 0;
+    color: #E65100; /* Darker Orange for Title */
+}
+
+.event-location, .event-description {
+    font-size: 0.9em;
+    color: #555;
+}
+
+.event-details-toggle {
+    background: none;
+    border: none;
+    color: #007bff; /* Kept blue for links, or you can change to #FF9800 */
+    cursor: pointer;
+    text-align: right;
+    padding: 0;
+    margin-top: 5px;
+    font-size: 0.85em;
+}
+
+.event-details-content {
+    display: none; /* Hidden by default */
+    margin-top: 10px;
+    border-top: 1px dashed #ccc;
+    padding-top: 10px;
+}
+
+.event-details-content p {
+    margin: 5px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    color: #777;
+    font-size: 0.8em;
+    margin-top: 20px;
+}
+
+.install-button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin: 15px auto; /* Center the button */
+    display: block; /* Ensure it's a block element for centering */
+    width: fit-content; /* Adjust width to content */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: background-color 0.3s ease;
+}
+
+.install-button:hover {
+    background-color: #45a049;
+}
+
+.reload-button {
+    background-color: #007bff; /* A nice blue */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin: 20px auto; /* Center the button and add spacing */
+    display: block;
+    width: fit-content;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: background-color 0.3s ease;
+}
+
+.reload-button:hover {
+    background-color: #0056b3;
+}
+
+.past { /* Corrected class name to 'past' */
+    background-color: #e0e0e0; /* A light gray background */
+    color: #888; /* Dimmed text color */
+    opacity: 0.7; /* Make it slightly transparent */
+    border-left: 5px solid #bbb; /* Add a border to the left for emphasis */
+    text-decoration: none; /* Ensure no underline if you had links */
+}
+
+/* Optional: To make titles/details less prominent in past events when using .past */
+.past h3 {
+    color: #666;
+}
+
+.past p {
+    color: #999;
+}
