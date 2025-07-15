@@ -1,4 +1,4 @@
-const APP_VERSION = '1.0.1';
+const APP_VERSION = '2.0.8';
 
 document.addEventListener('DOMContentLoaded', () => {
     let deferredPrompt;
@@ -307,8 +307,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 
                 data = await response.json();
-                localStorage.setItem('scheduleData', JSON.stringify(data));
-        
+       
                 // Save timestamp
                 const now = new Date();
                 localStorage.setItem('scheduleLastUpdated', now.toISOString());
@@ -317,14 +316,6 @@ document.addEventListener('DOMContentLoaded', () => {
         
             } catch (networkError) {
                 console.warn('Fetch failed, trying localStorage...', networkError);
-        
-                const stored = localStorage.getItem('scheduleData');
-                if (stored) {
-                    data = JSON.parse(stored);
-                    console.log('Loaded schedule from localStorage.');
-                } else {
-                    throw new Error('No schedule available in localStorage.');
-                }
             }
             // Sort schedule by startTime
             scheduleData = data.sort((a, b) => new Date(a.startTime) - new Date(b.startTime));
