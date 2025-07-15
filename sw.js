@@ -1,4 +1,4 @@
-const CACHE_NAME = 'trip-schedule-cache-v1.0.0'; // Increment version for updates
+const CACHE_NAME = 'trip-schedule-cache-v1.0.1'; // Increment version for updates
 
 // List of static assets that are part of your app's "shell"
 const urlsToCache = [
