@@ -1,48 +1,39 @@
 [
   {
     "id": 1,
-    "title": "יציאה מהמשרד לכיוון הרכבת",
-    "startTime": "2025-07-10T15:00:00",
-    "endTime": "2025-07-10T15:25:00",
-    "location": "משרד דקל",
+    "title": "התארגנות",
+    "startTime": "2025-07-15T15:00:00",
+    "endTime": "2025-07-16T16:00:00",
+    "location": "בית",
     "description":[
-        "ביטוח בריאות באחריות העובד (דרך כרטיסי האשראי חינם)",
-        "קניות בדיוטי ניתן להזמין מראש ולאסוף בעמדה יעודית ללא תור ",
-        "לסובלי הקור להביא עליונית",
-        "לסובלי האור לדאוג לכיסוי עיניים",
-        "לישנים בקול (נוחרים) תדאגו לאטמי אוזניים לשותפי החדר שלכם או עדכנו אותם",
-        "בגד ים (בריכה חיצונית +בריכה פנימית בגג המלון)",
-        "מטען נייד - אנחנו יום שלם בחוץ ",
-        "מטבע מקומי - LARI , ניתן להמיר דולר/יורו בכל מקום בעיר"
-
-
+        "ארגון המזוודה",
+        "תיק גב - מטען נייד, מטען, עליון לטיסה",
+		"ביטוח רפואי",
+        "חבילת אינטרנט לחול",
+        "ציוד לשתלים",
     ],
     "links":[
         {
         "text":"בדיקת מזג אוויר",
-        "url":"https://www.xplorer.co.il/map/europe/georgia/tbilisi_georgia?i=forecast"
-    },
-    {
-        "text":"e-sim",
-        "url":"https://maya.net"
+        "url":"https://www.accuweather.com/he/fr/paris/623/daily-weather-forecast/623"
     }
 ]
   },
   {
     "id": 2,
-    "title": "רכבת חיפה- נתב\"ג",
-    "startTime": "2025-07-10T15:25:00",
-    "endTime": "2025-07-10T16:50:00",
-    "location": "תחנת רכבת השמונה",
+    "title": "נסיעה חיפה - נתבג",
+    "startTime": "2025-07-17T109:00:00",
+    "endTime": "2025-07-17T11:00:00",
+    "location": "בית",
     "description": ""
   },
   {
     "id": 3,
     "title": "טרמינל 3 + דיוטי",
-    "startTime": "2025-07-10T16:50:00",
-    "endTime": "2025-07-10T19:00:00",
+    "startTime": "2025-07-17T11:10:00",
+    "endTime": "2025-07-14T19:00:00",
     "location": "טרמינל 3",
-    "description": ""
+    "description": "El Al LY 327"
   },
   {
     "id": 4,
@@ -55,280 +46,122 @@
   {
     "id": 5,
     "title": "המראה TLV",
-    "startTime": "2025-07-10T19:40:00",
-    "endTime": "2025-07-10T20:00:00",
+    "startTime": "2025-07-17T14:00:00",
+    "endTime": "2025-07-17T14:19:00",
     "location": "כל אחד בכיסא שלו",
     "description": ""
   },
   {
     "id": 5,
     "title": "טיסה נעימה",
-    "startTime": "2025-07-10T19:40:00",
-    "endTime": "2025-07-10T23:20:00",
+    "startTime": "2025-07-17T14:10:00",
+    "endTime": "2025-07-17T18:10:00",
     "location": "",
     "description": ""
   },
   {
     "id": 6,
-    "title": "נחיתה TBS",
-    "startTime": "2025-07-10T23:20:00",
-    "endTime": "2025-07-10T23:40:00",
+    "title": "נחיתה CDG",
+    "startTime": "2025-07-17T18:20:00",
+    "endTime": "2025-07-17T18:25:00",
     "location": "",
     "description": ""
   },
   {
     "id": 7,
-    "title": "נסיעה למלון RADISSON וקבלת חדרים",
-    "startTime": "2025-07-10T23:40:00",
-    "endTime": "2025-07-10T00:00:00",
+    "title": "נסיעה למלון",
+    "startTime": "2025-07-17T18:40:00",
+    "endTime": "2025-07-17T19:40:00",
     "location": "",
     "description": "",
     "links":[
         {
             "text":"אתר המלון",
-            "url":"https://www.radissonhotels.com/he-il/hotels/radisson-blu-tbilisi?facilitatorId=RHGSEM&cid=a%3Aps+b%3Aggl+c%3Aemea+i%3Abrand+e%3Ardb+d%3Aeerut+r%3Abrt+f%3Ahe-IL+g%3Aho+h%3AGETBSIVE+v%3Acf&gad_source=1&gad_campaignid=22123798236&gbraid=0AAAAADtKuEUxYKkl_PUQ97BIL9cgIcEvQ&gclid=Cj0KCQjw1JjDBhDjARIsABlM2SuZIZt660ipM8MEdDb_4ujqT7DewxKcwqb6gSDGVlbaVTxgvzWKeKEaApzBEALw_wcB&gclsrc=aw.ds"
+            "url":"https://www.hotelelysee.com/"
         },
       {
-"text":"מיקום",
-        "url":"https://maps.app.goo.gl/T616FV3iH1qeKZvPA"
+		"text":"מיקום",
+        "url":"https://maps.app.goo.gl/VXC98PPDi4jDJGtVA"
+        
+      },
+	  ,
+      {
+		"text":"whatsapp",
+        "url":"https://wa.me/33626491313"
         
       }
     ]
   },
   {
-    "id": 8,
-    "title": "נסיעה למלון הכשר ERIGRAPH וקבלת חדרים",
-     "startTime": "2025-07-10T23:40:00",
-    "endTime": "2025-07-10T00:00:00",
-    "location": "",
-    "description": "",
-    "links":[
-        {
-            "text":"אתר המלון",
-            "url":"https://my.treedis.com/tour/epigraph-town-hotel-1c240c3c"
-        }
-    ]
-  },
-  {
     "id": 9,
     "title":"ארוחת בוקר",
-    "startTime": "2025-07-11T07:00:00",
-    "endTime": "2025-07-11T07:45:00",
-    "location": "קומה 1",
+    "startTime": "2025-07-18T07:00:00",
+    "endTime": "2025-07-18T07:45:00",
+    "location": "חדר אוכל",
     "notes":"איחורים לא יתקבלו! :)",
     "description": ""
   },
   {
     "id": 10,
-    "title": "עליה לאוטובוס",
-    "startTime": "2025-07-11T07:45:00",
-    "endTime": "2025-07-11T08:00:00",
+    "title": "נוסעים לדיסני",
+    "startTime": "2025-07-18T08:00:00",
+    "endTime": "2025-07-18T08:30:00",
     "location": "",
-    "description": ""
-  },
-  {
-    "id": 11,
-    "title": "טיול יום לדרך הצבאית והרי הקווקז",
-    "startTime": "2025-07-11T08:00:00",
-    "endTime": "2025-07-11T18:00:00",
-    "location": "",
-    "description": "יום של טבע ונופים מדהימים . הדרך הצבאית, נתחיל לעלות לקווקז הגבוה לכיוון גודאורי בדרך נעצור ונטייל ליד אגם זינוואלי, נבקר במצודה העתיקה מהמאה ה16- אנאנורי. נראה תופעת טבע מרשימה ביותר- התמזגות של 2 נהרות ארגווי הבהיר וארגווי הכהה. נעצור ליד מונומנט שנבנה לסמל האחווה בין העם הרוסי והעם הגאורגי. נטעם מהמים המינרליים הזורמים על סלעים צבעוניים. נהנה מנופים עוצרי נשימה. חזרה לטביליסי"
-  },
-  {
-    "id": 12,
-    "title": "הגעה למלון והתארגנות לקראת ארוחת שישי",
-    "startTime": "2025-07-11T18:00:00",
-    "endTime": "2025-07-11T20:30:00",
-    "location": "",
-    "description": "איחורים לא יתקבלו! :)"
-  },
-  {
-    "id": 14,
-    "title": "כניסת שבת ",
-    "startTime": "2025-07-11T20:18:00",
-    "endTime": "2025-07-11T20:18:00",
-    "location": "",
-    "description": ["גדי ומשה - בית הכנסת הראשי + בית חב\"ד בקרבת המלון","20:25- תפילת מנחה ערב שבת ","20:45 - קבלת שבת ותפילת ערבית"]
-  },
-  {
-    "id": 15,
-    "title": "יציאה מהמלון לבית חב\"ד לארוחת שישי ",
-    "startTime": "2025-07-11T21:00:00",
-    "endTime": "2025-07-11T21:30:00",
-    "location": "",
-    "notes":"הליכה רגלית בנות שימו לב לעקבים",
-    "description": ""
-  },
-  {
-    "id": 16,
-    "title": "ארוחת שישי בבית חב\"ד",
-    "startTime": "2025-07-11T21:30:00",
-    "endTime": "2025-07-11T00:00:00",
-    "location": "",
-    "description": ""
-  },
-  {
-    "id": 17,
-    "title": "זמן חופשי / לילה טוב",
-    "startTime": "2025-07-12T00:00:00",
-    "endTime": "2025-07-12T09:00:00",
-    "location": "",
-    "description": "לבליינים -  שדרת - shardeni  בה מסעודת, ברים ומועדונים לבחירתכם"
-  },
-  {
-    "id": 18,
-    "title":"ארוחת בוקר",
-    "startTime": "2025-07-12T09:00:00",
-    "endTime": "2025-07-12T09:50:00",
-    "location": "קומה 1",
-    "description": "איחורים לא יתקבלו! :)"
-  },
-  {
-    "id": 19,
-    "title": "מתכנסים ליציאה בלובי",
-    "startTime": "2025-07-12T09:50:00",
-    "endTime": "2025-07-12T10:00:00",
-    "location": "לובי קומת כניסה",
-    "description": ""
-  },
-  {
-    "id": 20,
-    "title": "סיור מודרך רגלי בעיר העתיקה ",
-    "startTime": "2025-07-12T10:00:00",
-    "endTime": "2025-07-12T13:00:00",
-    "location": "",
-    "description": "יום טיול בעיר היפהפייה טביליסי, נצא לטייל בעיר\nהעתיקה, נבקר בגשר הזכוכית, בפארק רייקה, נבקר\nברובע המרחצאות, בגשר המנעולים ובמפל, נבקר\nבמדרחוב שרדני, רובע המסעדות והבארים של\nטביליסי, משם נמשיך לשוק הפשפשים היפה של\nהעיר ב\"גשר היבש\"\nשימו לב לנעול נעלים נוחות"
-  },
-  {
-    "id": 21,
-    "title": "זמן חופשי + התארגנות לארוחת ערב",
-    "startTime": "2025-07-12T13:00:00",
-    "endTime": "2025-07-12T19:15:00",
-    "location": "",
-    "notes": "קוד לבוש למסעדה קלאסי",
-    "description": "",
-    "links":[
-      {
-        "text":"אפשרויות לזמן חופשי",
-        "url":"https://www.tripadvisor.co.il/Attractions-g294195-Activities-Tbilisi.html"
-      },
-      {
-        "text":"תיאום תור לחמאם",
-        "url":"https://chreli-abano.ge/?lan=en"
-      }
+    "description":[
+        "להוריד אפליקציה של דיסני",
+        "תיק גב - מים + מטען נייד",
     ]
-  },
-  {
-    "id": 22,
-    "title": "מתכנסים ליציאה בלובי בקומת הכניסה (0)",
-    "startTime": "2025-07-12T19:15:00",
-    "endTime": "2025-07-12T19:20:00",
-    "location": "",
-    "description": "איחורים לא יתקבלו! :)"
-  },
-  {
-    "id": 23,
-    "title": "נסיעה למסעדת Tsiskvili",
-    "startTime": "2025-07-12T19:20:00",
-    "endTime": "2025-07-12T19:40:00",
-    "location": "",
-    "description": "",
-    "links":[
-        {
-            "text":"אתר המסעדה",
-            "url":"https://tsiskvili.ge/ethno-tsiskvili/en"
-        }
-    ]
-  },
-  {
-    "id": 24,
-    "title": "ארוחת ערב במסעדת Tsiskvili + מופע פונקלור",
-    "startTime": "2025-07-12T20:00:00",
-    "endTime": "2025-07-12T23:30:00",
-    "location": "",
-    "description": ""
-  },
-  
-  {
-    "id": 26,
-    "title": "צאת שבת + הסעה למסעדת Tsiskvili",
-    "startTime": "2025-07-12T21:26:00",
-    "endTime": "2025-07-12T21:40:00",
-    "notes":"לשומרי השבת",
-    "location": "",
-    "description": ""
-  },
-  {
-    "id": 27,
-    "title": "הסעה למלון ולילה טוב",
-    "startTime": "2025-07-12T23:30:00",
-    "endTime": "2025-07-12T00:00:00",
-    "location": "",
-    "description": "לביילינים - קזינו במלון , מעבר לכביש של המלון בר republic 24 "
-  },
-  {
-    "id": 28,
-    "title": "בוקר טוב - ארוחת בוקר",
-    "startTime": "2025-07-13T07:00:00",
-    "endTime": "2025-07-13T07:45:00",
-    "location": "קומה",
-    "description": "איחורים לא יתקבלו! :)"
-  },
-  {
-    "id": 29,
-    "title": "צ'ק אאוט",
-    "startTime": "2025-07-13T07:45:00",
-    "endTime": "2025-07-13T08:00:00",
-    "location": "",
-    "description": ""
-  },
-  {
-    "id": 30,
-    "title": "עליה לאוטובוס",
-    "startTime": "2025-07-13T08:00:00",
-    "endTime": "2025-07-13T08:10:00",
-    "location": "",
-    "description": ""
-  },
-  {
-    "id": 31,
-    "title": "טיול יום לחבל היין ועיר האהבה סיגנאקי",
-    "startTime": "2025-07-13T08:10:00",
-    "endTime": "2025-07-13T21:00:00",
-    "location": "",
-    "description": "נצא מטביליסי לאזור המזרחי של גאורגיה - חבל\nקאחתי. אזור קאחתי הוא אזור של כרמים,\nיקבים ויינות. נעבור בין כפרים יפהפיים, נהנה\nמנופים וטבע. נעשה סיור מודרך ביקב ונטעם\nמהיינות המשובחים ביקב בוטיק ונקבל הרצאה\nעל אופן ייצור היין ביקב. נראה את אופן אפיית\nהלחם הגאורגי בתוך התנור המיוחד, אפשרות\nלסדנת בישול של צ'ורצ'חלה )הממתק הלאומי(\nחינקלי וחצ'אפורי. נבקר בעי ירה ציורית מהמאה\nה18- סיגנגי, אשר מרוב יופייה מכונה עיר\nהאהבה, נטייל בין חומות ומגדלים, ונשקיף על\nהנוף של עמק אלזאני המדהים. חזרה לטביליסי"
-  },
+  }
   {
     "id": 32,
-    "title": "נסיעה לשדה תעופה",
+    "title": "נסיעה למלון בפריז",
     "startTime": "2025-07-13T21:00:00",
     "endTime": "2025-07-13T22:00:00",
     "location": "",
     "description": "רכבת לילה בכל שעה עגולה"
   },
+ 
+  {
+    "id": 7,
+    "title": "נסיעה למלון",
+    "startTime": "2025-07-21T11:00:00",
+    "endTime": "2025-07-21T12:00:00",
+    "location": "",
+    "description": "",
+    "links":[
+        {
+            "text":"אתר המלון",
+            "url":"https://www.booking.com/hotel/fr/hollidayinnmontmartre.html?aid=1288894&label=metagha-link-MRIL-hotel-217360_dev-desktop_los-1_bw-40_dow-Sunday_defdate-1_room-0_gstadt-2_rateid-public_aud-7379979543_gacid-21415134868_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20250824_ppt-_lp-2376_r-783103043990209498&sid=43ee58a0c706fe8d84ce248c55267f35&all_sr_blocks=21736002_94349672_2_2_0&checkin=2025-08-24&checkout=2025-08-25&dest_id=217360&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=21736002_94349672_2_2_0&hpos=1&matching_block_id=21736002_94349672_2_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=21736002_94349672_2_2_0__13610&srepoch=1752598986&srpvid=e86a77ea13be0a43&type=total&ucfs=1& "
+        },
+      {
+		"text":"מיקום",
+        "url":"https://maps.app.goo.gl/mrZWQCwrDVmebVn58"
+        
+      },
+	  ,
+      {
+		"text":"whatsapp",
+        "url":"https://wa.me/33626491313"
+        
+      }
+    ]
+  },
+  
   {
     "id": 33,
-    "title": "המראה TBS",
-    "startTime": "2025-07-14T00:30:00",
-    "endTime": "2025-07-14T00:31:00",
+    "title": "המראה CDG",
+    "startTime": "2025-07-24T22:30:00",
+    "endTime": "2025-07-24T00:31:00",
     "location": "",
-    "description": ""
+    "description": "El Al LY 326"
   },
   {
     "id": 34,
     "title": "נחיתה TLV",
-    "startTime": "2025-07-14T02:10:00",
-    "endTime": "2025-07-14T02:11:00",
+    "startTime": "2025-07-25T03:50:00",
+    "endTime": "2025-07-25T03:51:00",
     "location": "",
     "description": ""
   }
-  ,
-  {
-    "id": 35,
-    "title": "בוקר בא, קדימה לעבודה!",
-    "startTime": "2025-07-14T08:00:00",
-    "endTime": "2025-07-14T16:00:00",
-    "location": "",
-    "description": ""
-  }
+  
 ]
