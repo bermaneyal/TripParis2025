@@ -1,167 +1,158 @@
 [
-  {
-    "id": 1,
-    "title": "התארגנות",
-    "startTime": "2025-07-15T15:00:00",
-    "endTime": "2025-07-16T16:00:00",
-    "location": "בית",
-    "description":[
-        "ארגון המזוודה",
-        "תיק גב - מטען נייד, מטען, עליון לטיסה",
-		"ביטוח רפואי",
-        "חבילת אינטרנט לחול",
-        "ציוד לשתלים",
-    ],
-    "links":[
-        {
-        "text":"בדיקת מזג אוויר",
-        "url":"https://www.accuweather.com/he/fr/paris/623/daily-weather-forecast/623"
+    {
+        "id": 1,
+        "title": "התארגנות",
+        "startTime": "2025-07-15T15:00:00",
+        "endTime": "2025-07-16T16:00:00",
+        "location": "בית",
+        "description": [
+            "ארגון המזוודה",
+            "תיק גב - מטען נייד, מטען, עליון לטיסה",
+            "ביטוח רפואי",
+            "חבילת אינטרנט לחול",
+            "ציוד לשתלים"
+        ],
+        "links": [
+            {
+                "text": "בדיקת מזג אוויר",
+                "url": "https://www.accuweather.com/he/fr/paris/623/daily-weather-forecast/623"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "נסיעה חיפה - נתבג",
+        "startTime": "2025-07-17T109:00:00",
+        "endTime": "2025-07-17T11:00:00",
+        "location": "בית",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "title": "טרמינל 3 + דיוטי",
+        "startTime": "2025-07-17T11:10:00",
+        "endTime": "2025-07-14T19:00:00",
+        "location": "טרמינל 3",
+        "description": "El Al LY 327"
+    },
+    {
+        "id": 4,
+        "title": "תחילת עליה למטוס",
+        "startTime": "2025-07-10T19:00:00",
+        "endTime": "2025-07-10T19:40:00",
+        "location": "טרמינל 3",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "title": "המראה TLV",
+        "startTime": "2025-07-17T14:00:00",
+        "endTime": "2025-07-17T14:19:00",
+        "location": "כל אחד בכיסא שלו",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "title": "טיסה נעימה",
+        "startTime": "2025-07-17T14:10:00",
+        "endTime": "2025-07-17T18:10:00",
+        "location": "",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "title": "נחיתה CDG",
+        "startTime": "2025-07-17T18:20:00",
+        "endTime": "2025-07-17T18:25:00",
+        "location": "",
+        "description": ""
+    },
+    {
+        "id": 7,
+        "title": "נסיעה למלון",
+        "startTime": "2025-07-17T18:40:00",
+        "endTime": "2025-07-17T19:40:00",
+        "location": "",
+        "description": "",
+        "links": [
+            {
+                "text": "אתר המלון",
+                "url": "https://www.hotelelysee.com/"
+            },
+            {
+                "text": "מיקום",
+                "url": "https://maps.app.goo.gl/VXC98PPDi4jDJGtVA"
+            },
+            {
+                "text": "whatsapp",
+                "url": "https://wa.me/33626491313"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "ארוחת בוקר",
+        "startTime": "2025-07-18T07:00:00",
+        "endTime": "2025-07-18T07:45:00",
+        "location": "חדר אוכל",
+        "notes": "איחורים לא יתקבלו! :)",
+        "description": ""
+    },
+    {
+        "id": 10,
+        "title": "נוסעים לדיסני",
+        "startTime": "2025-07-18T08:00:00",
+        "endTime": "2025-07-18T08:30:00",
+        "location": "",
+        "description": [
+            "להוריד אפליקציה של דיסני",
+            "תיק גב - מים + מטען נייד"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "נסיעה למלון בפריז",
+        "startTime": "2025-07-13T21:00:00",
+        "endTime": "2025-07-13T22:00:00",
+        "location": "",
+        "description": "רכבת לילה בכל שעה עגולה"
+    },
+    {
+        "id": 7,
+        "title": "נסיעה למלון",
+        "startTime": "2025-07-21T11:00:00",
+        "endTime": "2025-07-21T12:00:00",
+        "location": "",
+        "description": "",
+        "links": [
+            {
+                "text": "אתר המלון",
+                "url": "https://www.booking.com/hotel/fr/hollidayinnmontmartre.html?aid=1288894&label=metagha-link-MRIL-hotel-217360_dev-desktop_los-1_bw-40_dow-Sunday_defdate-1_room-0_gstadt-2_rateid-public_aud-7379979543_gacid-21415134868_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20250824_ppt-_lp-2376_r-783103043990209498&sid=43ee58a0c706fe8d84ce248c55267f35&all_sr_blocks=21736002_94349672_2_2_0&checkin=2025-08-24&checkout=2025-08-25&dest_id=217360&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=21736002_94349672_2_2_0&hpos=1&matching_block_id=21736002_94349672_2_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=21736002_94349672_2_2_0__13610&srepoch=1752598986&srpvid=e86a77ea13be0a43&type=total&ucfs=1& "
+            },
+            {
+                "text": "מיקום",
+                "url": "https://maps.app.goo.gl/mrZWQCwrDVmebVn58"
+            },
+            {
+                "text": "whatsapp",
+                "url": "https://wa.me/33626491313"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "title": "המראה CDG",
+        "startTime": "2025-07-24T22:30:00",
+        "endTime": "2025-07-24T00:31:00",
+        "location": "",
+        "description": "El Al LY 326"
+    },
+    {
+        "id": 34,
+        "title": "נחיתה TLV",
+        "startTime": "2025-07-25T03:50:00",
+        "endTime": "2025-07-25T03:51:00",
+        "location": "",
+        "description": ""
     }
-]
-  },
-  {
-    "id": 2,
-    "title": "נסיעה חיפה - נתבג",
-    "startTime": "2025-07-17T109:00:00",
-    "endTime": "2025-07-17T11:00:00",
-    "location": "בית",
-    "description": ""
-  },
-  {
-    "id": 3,
-    "title": "טרמינל 3 + דיוטי",
-    "startTime": "2025-07-17T11:10:00",
-    "endTime": "2025-07-14T19:00:00",
-    "location": "טרמינל 3",
-    "description": "El Al LY 327"
-  },
-  {
-    "id": 4,
-    "title": "תחילת עליה למטוס",
-    "startTime": "2025-07-10T19:00:00",
-    "endTime": "2025-07-10T19:40:00",
-    "location": "טרמינל 3",
-    "description": ""
-  },
-  {
-    "id": 5,
-    "title": "המראה TLV",
-    "startTime": "2025-07-17T14:00:00",
-    "endTime": "2025-07-17T14:19:00",
-    "location": "כל אחד בכיסא שלו",
-    "description": ""
-  },
-  {
-    "id": 5,
-    "title": "טיסה נעימה",
-    "startTime": "2025-07-17T14:10:00",
-    "endTime": "2025-07-17T18:10:00",
-    "location": "",
-    "description": ""
-  },
-  {
-    "id": 6,
-    "title": "נחיתה CDG",
-    "startTime": "2025-07-17T18:20:00",
-    "endTime": "2025-07-17T18:25:00",
-    "location": "",
-    "description": ""
-  },
-  {
-    "id": 7,
-    "title": "נסיעה למלון",
-    "startTime": "2025-07-17T18:40:00",
-    "endTime": "2025-07-17T19:40:00",
-    "location": "",
-    "description": "",
-    "links":[
-        {
-            "text":"אתר המלון",
-            "url":"https://www.hotelelysee.com/"
-        },
-      {
-		"text":"מיקום",
-        "url":"https://maps.app.goo.gl/VXC98PPDi4jDJGtVA"
-        
-      },
-	  ,
-      {
-		"text":"whatsapp",
-        "url":"https://wa.me/33626491313"
-        
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "title":"ארוחת בוקר",
-    "startTime": "2025-07-18T07:00:00",
-    "endTime": "2025-07-18T07:45:00",
-    "location": "חדר אוכל",
-    "notes":"איחורים לא יתקבלו! :)",
-    "description": ""
-  },
-  {
-    "id": 10,
-    "title": "נוסעים לדיסני",
-    "startTime": "2025-07-18T08:00:00",
-    "endTime": "2025-07-18T08:30:00",
-    "location": "",
-    "description":[
-        "להוריד אפליקציה של דיסני",
-        "תיק גב - מים + מטען נייד",
-    ]
-  }
-  {
-    "id": 32,
-    "title": "נסיעה למלון בפריז",
-    "startTime": "2025-07-13T21:00:00",
-    "endTime": "2025-07-13T22:00:00",
-    "location": "",
-    "description": "רכבת לילה בכל שעה עגולה"
-  },
- 
-  {
-    "id": 7,
-    "title": "נסיעה למלון",
-    "startTime": "2025-07-21T11:00:00",
-    "endTime": "2025-07-21T12:00:00",
-    "location": "",
-    "description": "",
-    "links":[
-        {
-            "text":"אתר המלון",
-            "url":"https://www.booking.com/hotel/fr/hollidayinnmontmartre.html?aid=1288894&label=metagha-link-MRIL-hotel-217360_dev-desktop_los-1_bw-40_dow-Sunday_defdate-1_room-0_gstadt-2_rateid-public_aud-7379979543_gacid-21415134868_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20250824_ppt-_lp-2376_r-783103043990209498&sid=43ee58a0c706fe8d84ce248c55267f35&all_sr_blocks=21736002_94349672_2_2_0&checkin=2025-08-24&checkout=2025-08-25&dest_id=217360&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=21736002_94349672_2_2_0&hpos=1&matching_block_id=21736002_94349672_2_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=21736002_94349672_2_2_0__13610&srepoch=1752598986&srpvid=e86a77ea13be0a43&type=total&ucfs=1& "
-        },
-      {
-		"text":"מיקום",
-        "url":"https://maps.app.goo.gl/mrZWQCwrDVmebVn58"
-        
-      },
-	  ,
-      {
-		"text":"whatsapp",
-        "url":"https://wa.me/33626491313"
-        
-      }
-    ]
-  },
-  
-  {
-    "id": 33,
-    "title": "המראה CDG",
-    "startTime": "2025-07-24T22:30:00",
-    "endTime": "2025-07-24T00:31:00",
-    "location": "",
-    "description": "El Al LY 326"
-  },
-  {
-    "id": 34,
-    "title": "נחיתה TLV",
-    "startTime": "2025-07-25T03:50:00",
-    "endTime": "2025-07-25T03:51:00",
-    "location": "",
-    "description": ""
-  }
-  
 ]
